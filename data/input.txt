@@ -1,0 +1,9 @@
+cow
+sheep
+mouse
+snake
+bee
+cat
+dog
+pig
+lion
